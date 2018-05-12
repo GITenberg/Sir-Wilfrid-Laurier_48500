@@ -1,4 +1,8 @@
 _repo: Sir-Wilfrid-Laurier_48500
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: McArthur, Peter
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '44631'
     url: http://www.gutenberg.org/2009/agents/44631
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48500#Sir-Wilfrid-Laurier
 gutenberg_issued: '2015-03-16'
 gutenberg_type: Text
 identifiers:
